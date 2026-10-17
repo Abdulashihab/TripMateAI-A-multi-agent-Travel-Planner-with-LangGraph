@@ -27,8 +27,8 @@ from langchain_core.messages import (
     SystemMessage,
 )
 from langchain_openrouter import ChatOpenRouter
-from tools.tavily_tool import tavily_search
-from tools.flight_tool import search_flights
+from Tools.tavily_tool import tavily_search
+from Tools.flight_tool import search_flights
 
 
 def get_database_url():
