@@ -90,7 +90,7 @@ dependencies = [
     "nest-asyncio2==1.7.3",
     "notebook==7.6.3",
     "notebook-shim==0.2.4",
-    "numpy==3.14.8",
+    "numpy==2.5.4",
     "orjson==3.13.0",
     "ormsgpack==1.12.2",
     "packaging==26.3",
