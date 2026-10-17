@@ -21,4 +21,4 @@ conda activate travel
 pip install -r requirements.txt
 ```
 
-postgresql://shabu:3EMsvATW5JJ57QOdmUBonSgIoWI5ucUB@dpg-db73378m7kps73bs9cug-a.oregon-postgres.render.com/agentmemory_0j0w  
+postgresql://shabu:3EMsvATW5JJ57QOdmUBonSgIoWI5ucUB@dpg-db73378m7kps73bs9cug-a.oregon-postgres.render.com/agentmemory_0j0w
