@@ -1,7 +1,7 @@
 import os 
 import certifi
 from dotenv import load_dotenv
-from openrouter import OpenRouter
+from openrouter import ChatOpenRouter
 import warnings
 warnings.filterwarnings("ignore", message="Core Pydantic V1 functionality")
 
